@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+*{
+  /* تخصيص السكرول بار للمتصفحات التي تدعمه */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* تخصيص مسار السكرول بار */
+::-webkit-scrollbar-track {
+  background: #021127ab; /* لون الخلفية */
+}
+
+/* تخصيص شريط التمرير نفسه */
+::-webkit-scrollbar-thumb {
+  background: #010316e5;
+  transition: background 0.3s ease;
+}
+}
