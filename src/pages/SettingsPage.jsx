@@ -4,6 +4,7 @@ import DangerZone from "../components/settings/DangerZone";
 import Notifications from "../components/settings/Notifications";
 import Profile from "../components/settings/Profile";
 import Security from "../components/settings/Security";
+import Footer from "../components/Footer"
 
 const SettingsPage = () => {
 	return (
@@ -16,6 +17,7 @@ const SettingsPage = () => {
 				<ConnectedAccounts />
 				<DangerZone />
 			</main>
+      <Footer />
 		</div>
 	);
 };
