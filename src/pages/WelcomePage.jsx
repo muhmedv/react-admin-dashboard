@@ -21,7 +21,7 @@ const WelcomePage = () => {
 
       <div 
       className='absolute opacity-2 w-screen h-screen flex items-center justify-center overflow-hidden z-0'>
-        <img src="./src/assets/react.svg" className='w-4xl'/>
+        <img src="/react.svg" className='w-4xl'/>
       </div>
       
       <motion.div

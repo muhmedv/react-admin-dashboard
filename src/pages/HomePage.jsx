@@ -35,12 +35,12 @@ const HomePage = () => {
         animate={{ opacity:1, x:0 }}
         transition={{ duration:0.5 }}
         >
-          <HomeCards title="Overview Dashboard" src="./src/assets/overview.png" des="Get a summarized view of everything you need to track your progress"/>
-          <HomeCards title="Products Dashboard" src="./src/assets/products.png" des="Browse, manage, and update your product inventory with full control"/>
-          <HomeCards title="Users Dashboard" src="./src/assets/users.png" des="View and manage all user accounts, permissions, and activity logs"/>
-          <HomeCards title="Sales Dashboard" src="./src/assets/sales.png" des="Track revenue, analyze trends, and optimize your sales performance"/>
-          <HomeCards title="Orders Dashboard" src="./src/assets/orders.png" des="Monitor, process, and fulfill customer orders with real-time updates"/>
-          <HomeCards title="Analytics Dashboard" src="./src/assets/analytics.png" des="Gain powerful insights and visualize key metrics with ease now"/>
+          <HomeCards title="Overview Dashboard" src="/overview.png" des="Get a summarized view of everything you need to track your progress"/>
+          <HomeCards title="Products Dashboard" src="/products.png" des="Browse, manage, and update your product inventory with full control"/>
+          <HomeCards title="Users Dashboard" src="/users.png" des="View and manage all user accounts, permissions, and activity logs"/>
+          <HomeCards title="Sales Dashboard" src="/sales.png" des="Track revenue, analyze trends, and optimize your sales performance"/>
+          <HomeCards title="Orders Dashboard" src="/orders.png" des="Monitor, process, and fulfill customer orders with real-time updates"/>
+          <HomeCards title="Analytics Dashboard" src="/analytics.png" des="Gain powerful insights and visualize key metrics with ease now"/>
         </motion.div>
 
         <motion.div
