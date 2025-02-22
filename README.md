@@ -1,6 +1,6 @@
 >### Live Demo
 > **[React Admin Dashboard](https://react-admin-dashboard-33po227m4-muhammads-projects-79b6928b.vercel.app/)**
->###### ⓘ Open on a computer for the best view!
+>###### ⚠︎ Open on a computer for the best view!
 >
 ---
 
